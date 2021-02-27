@@ -12,7 +12,7 @@
     "del": "del-cli build/css/main.comp.css build/css/main.prefix.css",
     "build": "npm-run-all compile concat prefix compress del"
   },
-  "author": "Jonas",
+  "author": "Matthias Herzog",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.2.4",
